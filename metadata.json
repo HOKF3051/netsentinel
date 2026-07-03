@@ -1,0 +1,6 @@
+{
+  "name": "NetSentinel",
+  "description": "Premium on-device professional network monitoring & administration tool with real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
