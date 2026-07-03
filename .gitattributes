@@ -1,0 +1,6 @@
+# Mark binary files to prevent line-ending corruption during checkout
+*.jar binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.keystore binary
